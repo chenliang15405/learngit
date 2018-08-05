@@ -1,4 +1,4 @@
 Git is a version control system.
-Git is free software.
+Git is free software  and   workspace and temp space concept
 
 To practice git version backup
